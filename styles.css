@@ -1,0 +1,14 @@
+.style{   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 200px;
+ }
+
+ .text{
+    text-align: justify;
+ }
+p{
+    font-size: 250%;
+    font-weight: 600;
+}
